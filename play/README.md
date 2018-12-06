@@ -1,3 +1,5 @@
+GAMEPLAY VIDEO PREVIEW : [https://youtu.be/oAYIy5GiPjw] 
+
 PANZER2017 SETUP
 
 The setup will install the game in your computer and will add a desktop shortcut as well. The setup works just like any other setup you are used to when installing games. 
