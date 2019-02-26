@@ -1,4 +1,4 @@
-# PANZER2017 GAMEPLAY --> [ https://www.youtube.com/watch?v=oAYIy5GiPjw ]
+# PANZER2017 GAMEPLAY --> (https://www.youtube.com/watch?v=oAYIy5GiPjw)
 CS 319 Term Project | Fall 2017 Bilkent University
 
 
